@@ -1,0 +1,29 @@
+.img1{
+			width:100px;
+			height:100px;
+		}
+				body{
+			background-image: url("fondo3.jpg");
+		}
+	table{
+		text-align:center;
+		background-color:#ffe6e6 ;
+		opacity: 10;
+		width:70%;
+
+		}
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
